@@ -14,7 +14,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🏦 BẢNG KẾ HOẠCH TRẢ NỢ VAY")
+st.title("🏦 BẢNG KẾ HOẠCH TRẢ NỢ VAY_TS. VŨ ĐỨC BÌNH")
 st.write(
     "Tính tiền gốc, tiền lãi theo dư nợ thực tế, "
     "lãi suất ưu đãi và lãi suất thông thường."
